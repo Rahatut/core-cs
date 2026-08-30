@@ -1,0 +1,36 @@
+# Binaries
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+obj/
+out/
+cmake-build-*/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
